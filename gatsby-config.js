@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `Chris Stratton Environmental Law`,
+    name: `ABSeas`,
+    siteUrl: `https://chrisstratton.netlify.app`,
+    description: `The A, B, Seas of Environmental Law. This is my blog on current events, how the past impacts us and where we're headed.`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `The A, B, Seas of Environmental Law.`,
       maxWidth: 652,
     },
     social: [

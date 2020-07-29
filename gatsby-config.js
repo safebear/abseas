@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://chrisstratton.netlify.app`,
     description: `The A, B, Seas of Environmental Law. This is my blog on current events, how the past impacts us and where we're headed.`,
     hero: {
-      heading: `The A, B, Seas of Environmental Law.`,
+      heading: `The A, B, Seas of Environmental Law`,
       maxWidth: 652,
     },
     social: [
